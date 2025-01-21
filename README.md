@@ -81,7 +81,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 ## 📞 Support
 
 Pour obtenir de l'aide :
-- 📚 Consultez la [Documentation en ligne](https://poll1312.gitbook.io/)
 - 💬 Rejoignez notre [Serveur Revolt](https://rvlt.gg/YDHT1pMF)
 - 📧 Contactez-nous sur [Matrix](https://matrix.to/#/#antidroitard:matrix.org)
 
@@ -90,7 +89,7 @@ Pour obtenir de l'aide :
 <p align="center">
   Fait avec ❤️ par AnARCHIS12
   <br>
-  <a href="https://poll1312.gitbook.io/">Documentation</a> |
+  <a href="https://github.com/AnARCHIS12/Poll1312">GitHub</a> |
   <a href="https://rvlt.gg/YDHT1pMF">Communauté</a> |
   <a href="https://github.com/AnARCHIS12/Poll1312/issues">Signaler un bug</a>
 </p>
