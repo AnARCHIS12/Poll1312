@@ -1,0 +1,14 @@
+{
+  "name": "antidroitard-sondage-bot",
+  "version": "1.0.0",
+  "description": "Bot de sondages pour Revolt.chat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "revolt.js": "^6.0.20-patch.2",
+    "dotenv": "^16.3.1",
+    "mongoose": "^8.0.3"
+  }
+}
